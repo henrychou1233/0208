@@ -1,0 +1,18 @@
+Domain Adaptation started at 2025-01-17 01:19:30.662644
+Dataset: MVTec
+Category: one
+--------------------------------------------------
+
+
+Epoch 0 Results:
+Average Loss: 0.0230
+Image AUROC: 0.3848
+Pixel AUROC: 0.7083
+F1 Score: 0.6857
+PRO Score: 0.0099
+Confusion Matrix:
+[[ 1 20]
+ [13 36]]
+Average Latency: 124.11ms
+FPS: 8.06
+--------------------------------------------------

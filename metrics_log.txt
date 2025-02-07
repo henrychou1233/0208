@@ -1,0 +1,5 @@
+Epoch 0 | Image AUROC: 0.4586 | Pixel AUROC: 0.5431
+Epoch 1 | Image AUROC: 0.5459 | Pixel AUROC: 0.6739
+Epoch 2 | Image AUROC: 0.5975 | Pixel AUROC: 0.6643
+Epoch 3 | Image AUROC: 0.5123 | Pixel AUROC: 0.7020
+Epoch 4 | Image AUROC: 0.5737 | Pixel AUROC: 0.7203
